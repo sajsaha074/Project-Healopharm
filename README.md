@@ -1,5 +1,7 @@
-Healthcare Management System
-Transforming Healthcare, One Click at a Time
+#Healthcare Management System
+
+#Transforming Healthcare, One Click at a Time
+
 Welcome to our comprehensive Healthcare Management System, a one-stop solution designed to streamline all your healthcare needs. Our platform brings together patients, doctors, and healthcare providers under a unified digital roof, making healthcare access more efficient and user-friendly.
 
 Key Features:
